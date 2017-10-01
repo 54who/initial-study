@@ -1,13 +1,5 @@
 test2
 update file2 by vim
 D_h Y
-testi2
-update file2 by vim.
-D_h Y
 
 hahaah~ make a bug to file2
-=======
-test2
-On branch new_branch
-nothing to commit, working directory clean
->>>>>>> new_branch
