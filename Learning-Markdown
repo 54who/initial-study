@@ -1,0 +1,17 @@
+Markdown基本的语法：
+//语法可相互叠加使用
+一、斜体：_斜体_
+二、加粗：**加粗**
+三、标题（共六级）：#一级标题；##二级标题
+四、插入链接：1、[链接标题](url)
+             2、[链接标题][reference 标签]
+				 [reference 标签]:url
+五、插入图片：1、![(图片标识文本)](image的url)
+             2、![(图片标识文本)][reference 标签]
+				 [reference 标签]:image的url
+六、引用：> quote
+七、列表：1、(无序列表)* item
+        (缩进) * item
+八、列表：2、(有序列表)1. item
+九、段落：sentence.(空格)(空格)
+Markdown Tutorial：https://www.markdowntutorial.com/
